@@ -21,3 +21,13 @@ public class Test
 
 	}
 }
+
+
+//Or
+
+/*
+
+a ^= b; 
+b ^= a; 
+a ^= b;
+*/
