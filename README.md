@@ -5,4 +5,4 @@
 </p>
 
 
-This is my finding cool things to try when coding (primarily in Java).
+This is finding cool coding tricks online to try when coding (primarily in Java).
