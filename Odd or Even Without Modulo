@@ -1,0 +1,7 @@
+System.out.println((a & 1) == 0 ?  "EVEN" : "ODD" ); 
+
+Example:
+num = 5
+Binary: “101 & 1” will be 001, so true
+num = 4
+Binary: “100 & 1” will be 000, so false.
