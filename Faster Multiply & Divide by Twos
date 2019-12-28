@@ -1,0 +1,4 @@
+Example : 2 (Binary 10): shifting left 4 (Binary 100) and right 1 (Binary 1)
+
+n = n << 1;   // Multiply n with 2 
+n = n >> 1;   // Divide n by 2 
